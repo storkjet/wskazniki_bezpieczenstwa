@@ -1,0 +1,8 @@
+Flask
+Flask-sqlalchemy
+ujson
+mysql-python
+itsdangerous
+passlib
+tornado
+dnspython
